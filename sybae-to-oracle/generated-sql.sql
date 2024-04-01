@@ -1,4 +1,4 @@
-CREATE PROCEDURE acpt_check_trans (
+CREATE PROCEDURE  (
     @sec_id INT,
     @sec_no CHAR(5),
     @check_only BIT,
